@@ -1,0 +1,159 @@
+1663070504892	geckodriver	INFO	Listening on 127.0.0.1:60902
+1663070507985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofilePzDYED"
+1663070508707	Marionette	INFO	Marionette enabled
+1663070508721	Marionette	INFO	Listening on port 60914
+WebDriver BiDi listening on ws://localhost:60903
+Read port: 60914
+1663070509773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofilePzDYED\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60903/devtools/browser/51d9450a-3034-4193-8b30-24aafb0d3314
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 183: TypeError: this._element is null
+1663070606257	Marionette	INFO	Stopped listening on port 60914
+[Parent 8348, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 8348, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Temp\\rust_mozprofilejAWLRt"
+1663070558943	Marionette	INFO	Marionette enabled
+1663070558947	Marionette	INFO	Listening on port 60979
+WebDriver BiDi listening on ws://localhost:60970
+Read port: 60979
+1663070559457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofilejAWLRt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60970/devtools/browser/5b1cbd2d-f9fb-4f00-b3ed-c5771179a107
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 183: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1663070569580	Marionette	INFO	Stopped listening on port 60979
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 999: Error: Connection is not open.
+1663070600981	geckodriver	INFO	Listening on 127.0.0.1:61034
+1663070604036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofileljSTfI"
+1663070604525	Marionette	INFO	Marionette enabled
+1663070604531	Marionette	INFO	Listening on port 61045
+WebDriver BiDi listening on ws://localhost:61035
+Read port: 61045
+1663070605085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofileljSTfI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61035/devtools/browser/218158c8-ec34-4825-a95e-d5f6dc4014ea
+JavaScript warning: https://tm.betano.com/fp/check.js;CIS3SID=AE92B8FF5B15B8F4926888F5B493B4ED?org_id=fekkqfzv&session_id=f7cd5893-3fa4-4f13-99d7-ab9402768a2d&nonce=700e226344199c5a&jb=343324266a7b677735556b6e6467777126687b6735576b66646d7f73253032333826687360773f46697a6d64677a246a736a3d4469706d6e6778273a30333834, line 194: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.googleoptimize.com/optimize.js?id=OPT-N4KWJTD line 207 > Function, line 3: TypeError: e is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&response_type=code&client_id=52656250780-o5pjv5ji8bdvga6g8a5nplti6g35bj8g.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fbr.betano.com%2Fmyaccount%2Fgoogle%2Fcallback&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=-QlUup2kyAZQBpc7op6ilJI64_7ONpMcwOUiHZfwxYFfxCNAuoacY1f1a7xD52hd_0mrrdwbVtl8XC7udKrWKeWeRxdtX3lUWJ5n_AUZzJhjNejCvK4_S-OuWzKP5COa0 line 2 > eval line 726 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&response_type=code&client_id=52656250780-o5pjv5ji8bdvga6g8a5nplti6g35bj8g.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fbr.betano.com%2Fmyaccount%2Fgoogle%2Fcallback&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=-QlUup2kyAZQBpc7op6ilJI64_7ONpMcwOUiHZfwxYFfxCNAuoacY1f1a7xD52hd_0mrrdwbVtl8XC7udKrWKeWeRxdtX3lUWJ5n_AUZzJhjNejCvK4_S-OuWzKP5COa0 line 2 > eval line 3912 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&response_type=code&client_id=52656250780-o5pjv5ji8bdvga6g8a5nplti6g35bj8g.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fbr.betano.com%2Fmyaccount%2Fgoogle%2Fcallback&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=-QlUup2kyAZQBpc7op6ilJI64_7ONpMcwOUiHZfwxYFfxCNAuoacY1f1a7xD52hd_0mrrdwbVtl8XC7udKrWKeWeRxdtX3lUWJ5n_AUZzJhjNejCvK4_S-OuWzKP5COa0&flowName=GeneralOAuthFlow line 2 > eval line 1981 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&response_type=code&client_id=52656250780-o5pjv5ji8bdvga6g8a5nplti6g35bj8g.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fbr.betano.com%2Fmyaccount%2Fgoogle%2Fcallback&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=-QlUup2kyAZQBpc7op6ilJI64_7ONpMcwOUiHZfwxYFfxCNAuoacY1f1a7xD52hd_0mrrdwbVtl8XC7udKrWKeWeRxdtX3lUWJ5n_AUZzJhjNejCvK4_S-OuWzKP5COa0&flowName=GeneralOAuthFlow line 2 > eval line 2066 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S520720317%3A1663070648595294&continue=https%3A%2F%2Fwww.google.com%2Fwebhp%3Fhl%3Dpt-BR%26sa%3DX%26ved%3D0ahUKEwjB08n43JH6AhVbr5UCHYRWCYcQPAgI&ec=GAZAmgQ&hl=pt-BR&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrYZCDUGJS5KVHXyenlCvCmBkpRo0NM_4jufuc_bgMpQwZaI8Dynm2iSzZZldHM5WtkimcAxg line 696 > injectedScript line 2 > eval line 1469 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S-2079485125%3A1663070700086877&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fclient%3Dfirefox-b-d%26q%3DO%2Bnavegador%2Best%25C3%25A1%2Bsobre%2Bacesso%2Bremoto%26spell%3D1%26sa%3DX%26ved%3D2ahUKEwjh4qGO3ZH6AhU5rZUCHd5WDHAQBSgAegQIARA6%26biw%3D1920%26bih%3D955%26dpr%3D1&ec=GAZAAQ&hl=pt-BR&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpUlSEsPIBVKfz8fpMqemMJJBpJaCqCy3xZGxKZuo3kATQ1DHaNy3d5ujx6xz_NP2e6yVhB line 696 > injectedScript line 2 > eval line 2280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.betano.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.betano.com."
+JavaScript error: https://www.clarity.ms/eus-b/s/0.6.40/clarity.js, line 2: TypeError: a.contentDocument is null
+JavaScript error: https://www.clarity.ms/eus-b/s/0.6.40/clarity.js, line 2: TypeError: a.contentDocument is null
+JavaScript error: https://www.clarity.ms/eus-b/s/0.6.40/clarity.js, line 2: TypeError: a.contentDocument is null
+JavaScript error: https://www.clarity.ms/eus-b/s/0.6.40/clarity.js, line 2: TypeError: a.contentDocument is null
+JavaScript warning: https://tm.betano.com/fp/check.js;CIS3SID=F5820842AD9E54C9EF9A9E333A838EA2?org_id=fekkqfzv&session_id=7c39569d-5f78-4da0-981f-97810a52b6a7&nonce=8961d776e35b4940&jb=3433242e6a71677535576b6c6c677773266a7b6735576b666c6d7f732532303332246a7160773f4e69706d66677824687b6a3d4669726d6e6778273a38333834, line 80: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.betano.com."
+JavaScript error: https://www.clarity.ms/eus-b/s/0.6.40/clarity.js, line 2: TypeError: a.contentDocument is null
+JavaScript error: https://www.clarity.ms/eus-b/s/0.6.40/clarity.js, line 2: TypeError: a.contentDocument is null
+JavaScript warning: https://aviator-next.spribegaming.com/main.c37bcaf650bbf7a5.js, line 1: WebGL context was lost.
+JavaScript warning: https://aviator-next.spribegaming.com/main.c37bcaf650bbf7a5.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663071219601	Marionette	INFO	Stopped listening on port 61045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8896, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1663071301297	geckodriver	INFO	Listening on 127.0.0.1:53046
+1663071304371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofilepQdTlj"
+1663071304652	Marionette	INFO	Marionette enabled
+1663071304656	Marionette	INFO	Listening on port 53056
+WebDriver BiDi listening on ws://localhost:53047
+Read port: 53056
+1663071305168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofilepQdTlj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53047/devtools/browser/941cae2f-d931-46da-9d98-5c27d1499ce2
+JavaScript warning: https://tm.betano.com/fp/check.js;CIS3SID=322AE42F28650D99F42EADDEAD9483C1?org_id=fekkqfzv&session_id=b35bf88f-5c32-4fb3-8542-5b0b21e64c10&nonce=3240de926a4d6066&jb=34332624687b677735576b6c6667777124687b673d576b66646d77712732303330246a7360773d446b7a6d6467782468716a3d446b706d6e6f78273a30333036, line 232: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.googleoptimize.com/optimize.js?id=OPT-N4KWJTD line 209 > Function, line 3: TypeError: e is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.betano.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.betano.com."
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1663071473855	geckodriver	INFO	Listening on 127.0.0.1:53214
+1663071476906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofileFQTN35"
+1663071477312	Marionette	INFO	Marionette enabled
+1663071477316	Marionette	INFO	Listening on port 53225
+WebDriver BiDi listening on ws://localhost:53215
+Read port: 53225
+1663071477929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofileFQTN35\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53215/devtools/browser/fee1b41e-cc8b-401e-8d46-4f28f49bce55
+JavaScript error: https://www.googleoptimize.com/optimize.js?id=OPT-N4KWJTD line 207 > Function, line 3: TypeError: e is undefined
+JavaScript warning: https://tm.betano.com/fp/check.js;CIS3SID=E9A11437E687C020C154A87C7F3E9CB9?org_id=fekkqfzv&session_id=a33d4bf1-5459-4a65-8ee3-eeca108b31e1&nonce=cdcd5d37c7e69f25&jb=363324266a716d753557696e6c677773246a7b673d576b66646f75732532383332266a7362773f46697067666778266a7b6a3d466b726d6e6f78273a30313234, line 123: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.betano.com."
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 3847 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 4988 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 5091 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.betano.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Javconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofileMtcllU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53458/devtools/browser/1cb72bf6-c913-42de-88e8-6d78b359be38
+JavaScript warning: https://tm.betano.com/fp/check.js;CIS3SID=BF7B6D33C6D2B3880B44F3D8D06A1C11?org_id=fekkqfzv&session_id=9aae2b97-ac95-4819-ba4f-92d86cf7003d&nonce=7e08c6c3a179d845&jb=3e3126266871677735576b666467777b26627b6d3d576b666c6d777b27303233302668736a753d466b706d6467782462736a3d4e697a6d646f78273a3833303c, line 560: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.googleoptimize.com/optimize.js?id=OPT-N4KWJTD line 207 > Function, line 3: TypeError: e is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.betano.com."
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1663071820856	geckodriver	INFO	Listening on 127.0.0.1:54299
+1663071823916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofilebNJOdf"
+1663071824211	Marionette	INFO	Marionette enabled
+1663071824215	Marionette	INFO	Listening on port 54313
+WebDriver BiDi listening on ws://localhost:54300
+Read port: 54313
+1663071824772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mathe\\AppData\\Local\\Temp\\rust_mozprofilebNJOdf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54300/devtools/browser/b822320c-73f4-40f0-aa0d-99f3ae5f8d8d
+JavaScript error: https://www.googleoptimize.com/optimize.js?id=OPT-N4KWJTD line 207 > Function, line 3: TypeError: e is undefined
+JavaScript warning: https://tm.betano.com/fp/check.js;CIS3SID=9794B333F42F185F757DA0C369D7B825?org_id=fekkqfzv&session_id=b94aed3a-d5d4-4d04-8502-71dd48b36d05&nonce=49bc89d8cbeca3de&jb=343926266a736d753557696e64677773266a7b673d576b66666f7773253a323332266a73607d3d46697267666778266a736a3d4669726d6e6f78273a32313034, line 392: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
